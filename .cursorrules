@@ -2,6 +2,8 @@
 
 This is a GitHub repository to help me self-learn large language models.
 
+I am running this code on an Ubuntu VM
+
 ## Resources used
 
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
