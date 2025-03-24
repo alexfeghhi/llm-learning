@@ -35,6 +35,14 @@
       - I am curious as to how massive datasets are handled
       - Also curious about hyperparameters: the book mentions stride and max_length
 
+
+### Exploring topics in depth
+- Tokenization:
+  - There are differnet methods that split into different sizes of tokens: characters, subwords, and words
+    - The tradeoffs and implications of this are unclear, at least as I do not fully understand the transformer architecture
+- Embeddings:
+  -
+
 ### Projects
 
 - **Sample code from BLLMFS chapter**
